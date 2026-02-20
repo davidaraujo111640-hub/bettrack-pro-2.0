@@ -1,0 +1,15 @@
+{
+  "name": "BetTrack Pro",
+  "short_name": "BetTrack",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#e2001a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3061/3061320.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
